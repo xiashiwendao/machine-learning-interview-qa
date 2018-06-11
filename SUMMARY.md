@@ -13,4 +13,5 @@
     * [9. 猜测这种划分最可能是什么聚类算法的结果](questions/9.md)
     * [10. 支持向量机(SVM)中的支持向量是什么意思](questions/10.md)
     * [11. 精确率（precision）和召回率（recall）](questions/11.md)
+    * [12. 数据挖掘中如何判断关联规则有效性](questions/12.md)
 
