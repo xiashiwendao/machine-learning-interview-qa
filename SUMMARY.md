@@ -15,4 +15,5 @@
     * [11. 精确率（precision）和召回率（recall）](questions/11.md)
     * [12. 数据挖掘中如何判断关联规则有效性](questions/12.md)
     * [13. 朴素贝叶斯分类某个类别概率为0怎么办](questions/13.md)
+    * [14. 决策树](questions/14.md)
 
