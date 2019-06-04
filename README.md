@@ -16,6 +16,6 @@
 
 ## 贡献者
 
-- [Dai Jie](https://github.com/gzdaijie)
+- [Dai Jie](https://github.com/geektutu)
 - [Xu Ri](https://github.com/xurisun)
 - [Tijing Wang](https://github.com/vitow)
